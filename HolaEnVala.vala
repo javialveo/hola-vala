@@ -1,4 +1,4 @@
 void main()
 {
-  print("Hola Mundo\n");
+  print("Hola Mundo desde Vala\n");
 }
